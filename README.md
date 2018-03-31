@@ -1,3 +1,3 @@
 # gitskills
-Create a new pit and simple.
+Create two new pit and simple.
 test dev
