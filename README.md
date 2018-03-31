@@ -1,2 +1,2 @@
 # gitskills
-Creating a new branch is quick & simple.
+Create a new pit and simple.
